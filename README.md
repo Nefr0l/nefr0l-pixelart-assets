@@ -1,2 +1,3 @@
 # tileset-project
-Pixel art tileset for a platformer game
+
+Pixel art tile set for platformer game made in 16x16px
