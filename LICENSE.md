@@ -1,12 +1,9 @@
-do What The Fuck you want to Public License
+           DO WHAT THE FUCK YOU WANT TO PUBLIC LICENCE
+                   Version 4.0, July 2019
 
-Version 1.0, March 2000
-Copyright (C) 2000 Banlu Kemiyatorn (]d).
-136 Nives 7 Jangwattana 14 Laksi Bangkok
-Everyone is permitted to copy and distribute verbatim copies
-of this license document, but changing it is not allowed.
+    [by|copy{left|right}] [year] [author] [<contact>]
 
-Ok, the purpose of this license is simple
-and you just
+           DO WHAT THE FUCK YOU WANT TO PUBLIC LICENCE
+  TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION, AND MODIFICATION
 
-DO WHAT THE FUCK YOU WANT TO.
+ 0. You just DO WHAT THE FUCK YOU WANT TO.
